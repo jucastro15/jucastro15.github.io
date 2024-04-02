@@ -1,0 +1,127 @@
+body {
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    background-color: #ffffff;
+}
+
+header {
+    background-color: #533333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px; 
+    
+}
+
+
+nav  {
+
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+section {
+    padding: 40px;
+    
+}
+
+#contato{
+    background-color:  #533333;
+    padding: 20px;
+    color: #141414dc;
+    display: flex;
+    flex-direction: row;  
+    position: relative;
+}
+
+   
+  
+
+h2{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 img{
+    width:50px;
+    
+}
+ h1{
+    font: 500;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    text-shadow: 0 0 3px #000000;
+}
+#sobre2{
+ display: flex;
+ gap: 50px;
+ justify-content: center;
+
+}
+#sobre2 img{
+    width: 400px;
+    border-radius: 10px;
+
+}
+
+#sobre{
+ display: flex;
+ gap: 10px;
+ flex-direction: column; 
+ align-items: center;
+
+}
+a:hover {
+    text-decoration: underline;
+    color:#cecdcd ;
+  }
+  
+  #contato h2{
+  margin-bottom: 10px;
+  }
+
+#Atendimento {
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    background-color: #ebe7e0 ;
+    
+}
+    
+#Atendimento img{
+    width: 400px;
+    border-radius: 50%;
+}
+
+
+#Atendimento .textos h2{
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+}
+#contato div{
+    flex-direction: column;
+}
+
+#contato img{
+    position: fixed;
+  width: 30px;
+  bottom: 10px;
+  right: 10px;
+}

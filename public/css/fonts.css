@@ -1,0 +1,25 @@
+
+
+@font-face {
+    font-family: 'padaria';
+    src: url('/public/assets/fonts/KFOmCnqEu92Fr1Mu4mxK.woff2');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'padaria';
+    src: url('/public/assets/fonts/KFOlCnqEu92Fr1MmWUlfBBc4.woff2');
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'padaria';
+    src: url('/public/assets/fonts/KFOmCnqEu92Fr1Mu4mxK\ \(1\).woff2');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'padaria';
+    src: url('/public/assets/fonts/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-muw.woff2');
+    font-weight: 400;
+}
